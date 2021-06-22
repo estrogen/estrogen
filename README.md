@@ -6,6 +6,6 @@
 const allison = {
   pronouns: "she" | "her",
   funFact: "I currently have around 3+ months of experience across four different languages.",
-  code: [Javascript, Html, Python, Lua]
+  code: [Javascript, Python, Lua]
 }
 ```
