@@ -5,7 +5,7 @@
 ```javascript
 const allison = {
   pronouns: "she" | "her",
-  funFact: "I currently have around 3+ months of experience across four different languages.",
+  funFact: "I currently have around 3+ months of experience across three different languages.",
   code: [Javascript, Python, Lua]
 }
 ```
