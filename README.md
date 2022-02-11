@@ -2,10 +2,10 @@
 
 ### <img src="https://i.imgur.com/fVtVZTW.png" width="50"> Some info about me
 
-```javascript
-const allison = {
-  pronouns: "she" | "her",
-  funFact: "I currently have around 3+ months of experience across three different languages.",
-  code: [Javascript, Python, Lua]
+```python
+my_info = {
+  "Pronouns" : "she/her",
+  "Languages" : ["NodeJS", "Python", "Lua", "Some C++"],
+  "Contact" : "ally#0234",
 }
 ```
