@@ -5,7 +5,7 @@
 ```python
 my_info = {
   "Pronouns" : "she/her",
-  "Languages" : ["NodeJS", "Python", "Lua", "Some C++"],
+  "Languages" : ["NodeJS", "Python", "Lua", "Some C++",  "Java"],
   "Contact" : "ally#0234",
 }
 ```
