@@ -1,6 +1,6 @@
 <h1 align="center">Hai, I'm ally <img src="https://i.imgur.com/cWKmdCO.gif" width="30"></h1>
-<h3 align="center">Trans up and coming python developer</h3>
-🔭 I'm currently working on an AI Maplestory Whiteroom Script<br><br>🌱 I’m currently learning Java & C++<br><br>📫 Contact me at ally#0234<br>
+<h3 align="center">Trans Python developer</h3>
+🔭 I'm currently working on Private Projects c:<br><br>🌱 I’m currently learning Java & C++<br><br>📫 Contact me at ally#0234<br>
 
 
 ## 🌐 Socials:
