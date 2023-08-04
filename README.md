@@ -1,6 +1,6 @@
 <h1 align="center">Hai, I'm ally <img src="https://i.imgur.com/cWKmdCO.gif" width="30"></h1>
 <h3 align="center">Trans python developer</h3>
-🔭 I'm currently working on Private Projects c:<br><br>🌱 I’m currently learning Java & C++<br><br>💬 Talk to me about Python, NodeJS, and anything else<br><br>📫 Contact me at ally#0234<br>
+🔭 I'm currently working on Private Projects c:<br><br>🌱 I’m currently learning Java & C++<br><br>💬 Talk to me about Python, NodeJS, and anything else<br><br>📫 Contact me at @im.ally on discord<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
