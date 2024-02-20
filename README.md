@@ -11,8 +11,11 @@
     <img src="https://komarev.com/ghpvc/?username=estrogen&label=Profile%20views&color=004670&style=flat-square" alt="aizuu" />
 </div>
 <hr>
-<div>
-    <img src="https://i.imgur.com/GMqnS0m.png" width="300" align="left" />
+<table border="0">
+  <tr>
+    <td><img src="https://i.imgur.com/zLog5Qt.gif" width="300" /></td>
+    <td width="20"></td> <!-- This creates a spacer column -->
+    <td valign="top"> <!-- This aligns the content to the top -->
 
 #### Language and Tools
 <img height="20" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -27,16 +30,11 @@
 <img height="20" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-
-</div>
 <hr>
-<div>
-    <details>
-        <summary>Statistics</summary>
-        <br>
-        <a href="https://github.com/estrogen">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estrogen&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Top Langs">
-        </a>
-        <img src="https://github-readme-stats.vercel.app/api?username=estrogen&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats">
-    </details>
-</div>
+    <a href="https://github.com/estrogen">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estrogen&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Top Langs">
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=estrogen&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats">
+  </tr>
+</table>
+
