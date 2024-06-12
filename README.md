@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/adetCkV.gif" width="200" align="right" />
     <h1> About Me </h1>
     Hello, I'm Ally, a developer with a strong background in NodeJS and front-end technologies. <br>
-    Currently expanding my skill set by diving into C++, Vue.js, and React. <br>
+    Currently expanding my skill set by diving into Golang, Vue.js, and React. <br>
     If you're interested in discussing these or looking for collaboration, feel free to reach out.
 
 ####
