@@ -3,7 +3,8 @@
     <h1> About Me </h1>
     Hello, I'm Ally, a developer with a strong background in NodeJS and front-end technologies. <br>
     Currently expanding my skill set by diving into Golang, Vue.js, and React. <br>
-    If you're interested in discussing these or looking for collaboration, feel free to reach out.
+    If you're interested in discussing these or looking for collaboration, feel free to reach out. <br>
+    Additionally, my personal website is currently being recoded, so its a bit outdated as of rn.
 
 ####
 
